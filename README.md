@@ -1,21 +1,21 @@
-## [@UPLOADER_X_BOT](https://t.me/uploader_x_bot)
+#### [UPLOADER-BOT](https://t.me/uploader_x_bot)
 ---
 
 Telegram RoBot to Upload Links.
 
 **Features**:
 
-🛠️ Torrent search build in progress 😴
-
 👉 Upload [yt-dlp Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
 
 👉 Upload HTTP/HTTPS as File/Video to Telegram.
 
-👉 Upload zee5, sony.live, voot and much more 😋
+👉 Upload zee5, sony.live, voot and much more.
 
-👉  Permanent thumbnail Support
+👉 Inline torrent search support.
 
-👉 Broadcast message
+👉  Permanent thumbnail Support.
+
+👉 Broadcast message.
 
 **Heroku Buildpacks**
 ```
@@ -23,6 +23,10 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 ```
 heroku/python
+```
+
+```
+⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Clinton-Abraham/UPLOADER-BOT/issues/14#issuecomment-1021253536)
@@ -38,14 +42,11 @@ heroku/python
 * delthumbnail - 🎇 Delete thumbnail
 
 
-
 ## Credits, and Thanks to
 
 * [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-* [@AbirHasan2005](https://t.me/AbirHasan2005) for his [database.py](https://github.com/AbirHasan2005/VideoCompress/blob/main/bot/database/database.py)
-* [@DC4_WARRIOR](https://t.me/Space_X_bots)
-* [@xgorn](https://t.me/xgorn)
+* [@DC4_WARRIOR](https://t.me/Space_X_bots) it's me
 #### LICENSE
 - GPLv3
